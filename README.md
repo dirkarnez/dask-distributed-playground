@@ -1,7 +1,4 @@
-python-playground
-=================
-[dirkarnez/python-portable](https://github.com/dirkarnez/python-portable)
-
-### Installing packages
-1. fill in package name with version to `requirements.txt`
-2. `install-package.cmd`
+dask-distributed-playground
+===========================
+### Tutorials
+- [Quickstart — Dask.distributed 2024.9.0 documentation](https://distributed.dask.org/en/stable/quickstart.html)
